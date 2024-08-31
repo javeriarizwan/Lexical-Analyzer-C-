@@ -1,0 +1,94 @@
+Keyword : void
+
+Keyword : main
+
+( : (
+
+) : )
+
+{ : {
+
+Keyword : int
+
+Identifier : sum
+
+= : =
+
+Number : 0
+
+; : ;
+
+Keyword : for
+
+( : (
+
+Keyword : int
+
+Identifier : j
+
+= : =
+
+Number : 0
+
+; : ;
+
+Identifier : j
+
+< : <
+
+Number : 10
+
+; : ;
+
+Identifier : j
+
+= : =
+
+Identifier : j
+
++ : +
+
+Number : 1
+
+) : )
+
+{ : {
+
+Identifier : sum
+
+= : =
+
+Identifier : sum
+
++ : +
+
+Identifier : j
+
++ : +
+
+Number : 10.43
+
++ : +
+
+Number : 34.E4
+
++ : +
+
+Number : 45.34E-4
+
++ : +
+
+Identifier : E43
+
++ : +
+
+Error : .
+
+Number : 34
+
+; : ;
+
+} : }
+
+} : }
+
