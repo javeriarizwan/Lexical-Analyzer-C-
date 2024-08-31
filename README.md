@@ -2,7 +2,9 @@
 The objective was to develop a Lexical Analyzer using C++ that reads a source code file, identifies lexemes, and converts them into corresponding tokens based on predefined regular expressions.
 
 **Implementation:**
+
 **Language Used**: C++
+
 **Approach:**
 
 **Lexeme Identification:** The program reads the source code from input.txt line by line, and for each line, it scans for patterns that match the regular expressions provided in Table 1 of the course material.
